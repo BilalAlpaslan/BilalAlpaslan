@@ -4,11 +4,11 @@
 
 ### I ❤️ Coding
 
-![Python](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=000)
-![Django](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=000)
+![Python](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=python&labelColor=000)
+![Django](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=django&labelColor=000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=000)
 ![React](https://img.shields.io/badge/React-056676?style=flat&logo=react&logoColor=fff)
-![Flutter](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&labelColor=000)
+![Flutter](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&flutter=javascript&labelColor=000)
 
     {
       "name":"Bilal",
