@@ -18,51 +18,26 @@
 
     {
       "name":"Bilal",
-
       "surname":"Alpaslan",
-
       "country":"Türkiye",
-
       "skills and hobbies":{
-
         "programming":{
-
           "languages":["python","javascript","c/c++"],
-
           "frameworks and libraries":["django","react","flutter","tensorflow"],
-
           "other tools":["Docker","linux","REST api"],
-
         }
-
         "languages":[
-
           {
-
             "language":"Türkçe",
-
             "level":"native language"
-
           },
-
           {
-
             "language":"English",
-
             "level":"mid"
-
           }
-
         ],
-
         "table tennis",
-
         "elektronics and robotics"
-
       }  
-
     },
-  
-  
- 
  
