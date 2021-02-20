@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/-Python-056676?style=flat&logo=python&labelColor=000)
 ![Django](https://img.shields.io/badge/-Django-056676?style=flat&logo=django&labelColor=000)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-056676?style=flat&logo=javascript&labelColor=000)
-![React](https://img.shields.io/badge/React-056676?style=flat&logo=react&logoColor=fff)
+![React](https://img.shields.io/badge/-React-056676?style=flat&logo=react&logoColor=fff)
 ![Flutter](https://img.shields.io/badge/-Flutter-056676?style=flat&logo=flutter&labelColor=000)
 
     {
