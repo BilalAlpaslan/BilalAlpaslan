@@ -37,7 +37,7 @@
           }
         ],
         "table tennis",
-        "elektronics and robotics"
+        "electronics and robotics"
       }  
     },
  
