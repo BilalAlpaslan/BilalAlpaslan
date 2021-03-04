@@ -11,6 +11,7 @@
 
 
 ![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=BilalAlpaslan&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAlpaslan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BilalAlpaslan)
