@@ -10,8 +10,8 @@ Continuous learner
 ![Flutter](https://img.shields.io/badge/-Flutter-056676?style=flat&logo=flutter&labelColor=000)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAlpaslan)
 ![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=BilalAlpaslan&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BilalAlpaslan&layout=compact&theme=radical)
 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BilalAlpaslan)
