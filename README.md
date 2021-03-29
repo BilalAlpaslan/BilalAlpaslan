@@ -1,4 +1,4 @@
-##   Bilal Alpaslan : "Code code code"     <br>
+##   Bilal Alpaslan     <br>
 
 Continuous learner
 ## I ❤️ Coding
