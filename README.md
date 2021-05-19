@@ -3,7 +3,7 @@
 Continuous learner
 ## I ❤️ Coding
 
-
+https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg
 ![Python](https://img.shields.io/badge/-Python-056676?style=flat&logo=python&labelColor=000)
 ![Django](https://img.shields.io/badge/-Django-056676?style=flat&logo=django&labelColor=000)
 ![tf](https://img.shields.io/badge/-tf-056676?style=flat&logo=tf&labelColor=000)
