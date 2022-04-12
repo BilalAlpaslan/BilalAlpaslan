@@ -20,13 +20,19 @@ Continuous learner
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-056676?style=flat&logo=Kubernetes&labelColor=000)
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-056676?style=flat&logo=GoogleCloud&labelColor=000)
 ![AWS](https://img.shields.io/badge/-AWS-056676?style=flat&logo=amazon&labelColor=000)
+![GithubActions](https://img.shields.io/badge/-GithubActions-056676?style=flat&logo=githubactions&labelColor=000)
 
 
 ![Bilal's github stats](https://github-readme-stats.vercel.app/api?username=BilalAlpaslan&show_icons=true)
 
-[Linkedin](https://www.linkedin.com/in/bilal-alpaslan-a700181b3/)
-
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BilalAlpaslan)
+
+
+![Linkedin](https://img.shields.io/badge/-Linkedin-056676?style=flat&logo=linkedin&labelColor=000)
+-->
+[bilal-alpaslan-a700181b3](https://www.linkedin.com/in/bilal-alpaslan-a700181b3/)
+
+
+
 
 
