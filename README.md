@@ -28,9 +28,7 @@ Continuous learner
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BilalAlpaslan)
 
 
-![Linkedin](https://img.shields.io/badge/-Linkedin-056676?style=flat&logo=linkedin&labelColor=000)
--->
-[bilal-alpaslan-a700181b3](https://www.linkedin.com/in/bilal-alpaslan-a700181b3/)
+[Linkedin --> bilal-alpaslan-a700181b3](https://www.linkedin.com/in/bilal-alpaslan-a700181b3/)
 
 
 
