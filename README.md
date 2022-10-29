@@ -30,7 +30,7 @@ Tools and Services:
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BilalAlpaslan)
 
 
-[Linkedin --> bilal-alpaslan-a700181b3](https://www.linkedin.com/in/bilal-alpaslan-a700181b3/)
+[Linkedin --> bilalalpaslan](https://www.linkedin.com/in/bilalalpaslan)
 
 
 
