@@ -1,4 +1,4 @@
-##  Muhammet Bilal Alpaslan 
+##  Muhammet Bilal Alpaslan  &nbsp; &nbsp; [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/bilalalpaslan)
 Continuous learner
 
 ## Just code it 💻
@@ -29,8 +29,6 @@ Tools and Services:
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=BilalAlpaslan)
 
-
-[Linkedin --> bilalalpaslan](https://www.linkedin.com/in/bilalalpaslan)
 
 
 
